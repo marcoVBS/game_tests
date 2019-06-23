@@ -1,1 +1,1 @@
-Jogo de questões sobre o tema Testes de Software. Desenvolvido em VUE-JS.
+Jogo de questões sobre o Testes e Qualidade de Software. Desenvolvido utilizando o framework VUE-JS.
