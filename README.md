@@ -9,4 +9,4 @@ Jogo de questões sobre o Testes e Qualidade de Software. Desenvolvido utilizand
 3º Rodar o comando "npm install", para instalar as dependências.
      Obs: necessário Node.js instalado na máquina
 
-4º Rodar comando "npm run dev" para executar o jogo no navegador.
+4º Rodar comando "npm run dev" para testar o jogo no navegador.
